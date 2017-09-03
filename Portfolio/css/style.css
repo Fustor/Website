@@ -1,0 +1,87 @@
+
+body {
+ background-color: #F5F9FB;
+ font-family: arial black,sans-serif;
+}
+#about div {
+  background-color: #F5F9FB;
+  padding:50px;
+  padding-top: 150px;
+  padding-bottom: 150px;
+  font-family: arial black,sans-serif;
+  overflow: hidden;
+  border-bottom: 1px solid black;
+  
+}
+
+
+#examples div {
+  background-color: #E8F0F9;
+  padding: 50px;
+  font-family: arial black,sans-serif;
+}
+#examples div p {
+  padding: 2%;
+}
+
+#examples div a:hover {
+  text-decoration: none;
+  
+  color: white;
+}
+
+#contact div {
+  background-color: #F5F9FB;
+  padding: 50px;
+  font-family: arial black,sans-serif;
+  border-top: 1px solid black;
+  
+}
+nav {
+  background-color: #7EC2DE;
+}
+nav div {
+  padding-right: 50px;
+}
+nav div a:hover {
+  text-decoration: none;
+  
+  color: white;
+}
+a {
+  
+  border-radius: 5px;
+}
+a:link {
+  color: black;
+}
+a:hover {
+  text-decoration: none;
+  
+  color: white;
+  
+  
+}
+a:visited {
+  color: black;
+  
+}
+ul {
+  
+  
+  list-style: none;
+}
+.row {
+  display: flex;
+}
+#footer div {
+  background-color: #236467;
+  color: white;
+
+  
+}
+#footer img {
+  width: 5%;
+  padding: 10px;
+  
+}

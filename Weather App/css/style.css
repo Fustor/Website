@@ -1,0 +1,12 @@
+div {
+    text-align: center;
+    padding-top: 5%;
+    color: white;
+}
+body {
+    background-color: #393635;
+}
+button {
+    margin: 5px;
+    color: black;
+}

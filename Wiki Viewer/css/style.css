@@ -1,0 +1,15 @@
+body {
+  background-color: #C6E2FF;
+}
+ul {
+  list-style: none;
+}
+li {
+  background-color: #B2CBE5;
+  margin: 15px;
+  padding: 3px;
+  border-radius: 10px;
+}
+a {
+  color: black;
+}

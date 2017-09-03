@@ -1,0 +1,45 @@
+body {
+  background: linear-gradient(to left, #60ff51, #15c22c);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.head {
+  margin-top: 2%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  color: white;
+}
+
+.pads {
+  width: 60%;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.pad {
+  width: 30%;
+  height: 100px;
+  margin: 10px 0;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: gray;
+  border: 5px solid #4c594e;
+}
+
+.pad:hover {
+  background-color: #404040;
+}
+
+.active {
+  background-color: black;
+  transform: scale(1.1);
+  transition: all .2s;
+}

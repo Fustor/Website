@@ -1,0 +1,15 @@
+.table {
+    height: 50px;
+    width: 50px;
+    color: black;
+    border: black solid 3px;
+    border-radius: 2px;
+    text-align: center;
+    margin: 5px;
+}
+.contain {
+    width: 70%;
+    justify-content: center;
+    padding-left: 10%;
+    padding-top: 2%;
+}

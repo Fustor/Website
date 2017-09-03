@@ -1,0 +1,20 @@
+body {
+  background-color: #303F42;
+}
+div {
+  background-color: #6C7A7D;
+  margin-top: 15%;
+  margin-bottom: 15%;
+  text-align: center;
+  height: 100%;
+  color: white;
+  border-radius: 5%;
+ 
+}
+.btn {
+  background-color: #55676A;
+  border-color: #55676A;
+  color: white;
+  margin-top: 4%;
+  margin-bottom: 4%;
+}
